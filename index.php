@@ -7,6 +7,6 @@
 	<title>NTIG Kristianstad</title>
 </head>
 <body>
-	<h1>Vår interna hemsida2</h1>
+	<h1>Vår interna hemsida</h1>
 </body>
 </html>
